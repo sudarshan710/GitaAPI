@@ -7,7 +7,7 @@ const port = 3000
 app.listen(port, () =>{
     console.log('Listening on port ${port}')
 });
-
+s
 const fs = require('fs');
 
 const data = fs.readFileSync('data.json');
